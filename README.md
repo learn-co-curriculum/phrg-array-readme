@@ -214,5 +214,8 @@ famous_cats.index("Maru")
 
 This is not an operation you will perform very often. Arrays are used to store data and usually you will use the index number of an item to access it, not the other way around. 
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-array-readme/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-array-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Basic Arrays: Creating, Retrieving, Updating and Deleting</p>
